@@ -17,10 +17,12 @@ import { IndexComponent } from './index/index.component';
   imports: [
     BrowserModule,
     RouterModule.forRoot([
-      {path: 'heroes-list', 
+      {path: 'heroes', 
       component: HeroesListComponent},
-      {path: 'crisis-list',
-      component: CrisisListComponent}
+      {path: 'crisis',
+      component: CrisisListComponent},
+      {path: 'index',
+      component: IndexComponent}
     ]),
   ],
   providers: [],
