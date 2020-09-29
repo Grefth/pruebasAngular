@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/12f639c9-a6e3-4fa4-a9d5-fa213f4b3147/resourceGroups/Pruebas/providers/Microsoft.Web/sites/radioAdventista",
+    "appService.deploySubpath": "."
+}
